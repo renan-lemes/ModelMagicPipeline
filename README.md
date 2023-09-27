@@ -22,3 +22,5 @@ Este repositório oferece uma pipeline de Machine Learning para tarefas de class
 3. Siga os notebooks e scripts na ordem para construir sua pipeline.
 
 ## Contribuições
+
+1. <https://github.com/agconti/kaggle-titanic>
