@@ -14,11 +14,10 @@ Este repositório oferece uma pipeline de Machine Learning para tarefas de class
 - `notebooks/`: Notebooks Jupyter com etapas detalhadas.
 - `scripts/`: Códigos Python para automação.
 - `model/`: Modelos treinados.
-- `docs/`: Documentação detalhada.
 
 ## Uso
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/ModelMagicPipeline.git`
+1. Clone o repositório: `git clone https://github.com/renan-lemes/ModelMagicPipeline.git`
 2. Configure o ambiente: `pip install -r requirements.txt`
 3. Siga os notebooks e scripts na ordem para construir sua pipeline.
 
