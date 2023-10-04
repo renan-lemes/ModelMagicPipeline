@@ -1,6 +1,4 @@
-import pandas as pd
-import numpy as np
-
+import models
 
 if __name__ == "__main__":
-    main()
+    models.models_class()
