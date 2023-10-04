@@ -10,11 +10,11 @@ def LoadData():
 ## Class para poder arrumar os dados de treino e teste dos modelos
 class DataStruct:
     def __init__(self, train, test):
-        self.test = test
         self.train = train
+        self.test = test
 
     def data_cat__num(self):
-        self.catecoric_features = [
+        self.categoric_features = [
             col for col in train.columns if self.train[col].dtype.name == "object"
         ]
         self.numeric_features = [
